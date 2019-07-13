@@ -3,7 +3,7 @@
   <groupId>com.puttysoftware</groupId>
   <artifactId>storage</artifactId>
   <version>1.0.0</version>
-  <name>Storage</name>
+  <name>lib-java-storage</name>
   <description>Memory-efficient N-dimensional simulated data storage.</description>
   <build>
     <sourceDirectory>src</sourceDirectory>
@@ -12,7 +12,7 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.8.0</version>
         <configuration>
-          <release>11</release>
+          <release>12</release>
         </configuration>
       </plugin>
     </plugins>
