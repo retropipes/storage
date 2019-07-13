@@ -2,9 +2,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.puttysoftware</groupId>
   <artifactId>storage</artifactId>
-  <version>1.0.0</version>
+  <version>12.0.0</version>
   <name>lib-java-storage</name>
-  <description>Memory-efficient N-dimensional simulated data storage.</description>
+  <description>Memory-efficient N-dimensional simulated data storage for Java SE 12.</description>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
