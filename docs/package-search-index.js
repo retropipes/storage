@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"m":"com.puttysoftware.storage","l":"com.puttysoftware.storage"}]
